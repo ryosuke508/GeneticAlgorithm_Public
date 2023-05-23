@@ -10,4 +10,4 @@ The convergence process is shown. It can be confirmed that the convergence is to
 ![convergence process](ga.gif)
 
 # References
-[Proposal and Evaluation of Adaptive Real-coded Crossover AREX](jstage.jst.go.jp/article/tjsai/24/6/24_6_446/_pdf)
+[Proposal and Evaluation of Adaptive Real-coded Crossover AREX](https://www.jstage.jst.go.jp/article/tjsai/24/6/24_6_446/_pdf)
